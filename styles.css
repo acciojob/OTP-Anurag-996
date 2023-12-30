@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+.otp-form {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.code-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.code-container .code {
+    width: 14%;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+}
